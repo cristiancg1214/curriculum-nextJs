@@ -1,0 +1,17 @@
+.redHeader {
+  font-weight: bold;
+  font-size: 18;
+  color: red;
+  font-family: "Aller", sans-serif;
+  margin-bottom:3% ;
+}
+.career {
+  font-size: 18;
+  font-family: "Aller", sans-serif;
+}
+.column-container{
+  display: flex; flex-direction: column
+}
+.text-font{
+  font-family: "Aller", sans-serif;
+}
