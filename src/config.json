@@ -1,11 +1,34 @@
 {
-    "name":"Cristian Camilo Gutiérrez Vargas",
-    "career":"Ingeniero de Sistemas y Telecomunicaciones",
-    "contact":{
-        "mail":"cristiang1214@gmail.com",
-        "phone": "(57) 3104629798",
-        "briefcase":"https://curriculum-seven-iota.vercel.app",
-        "location":"Pácora, Caldas Colombia"
+  "name": "Cristian Camilo Gutiérrez Vargas",
+  "career": "Ingeniero de Sistemas y Telecomunicaciones",
+  "contact": {
+    "mail": "cristiang1214@gmail.com",
+    "phone": "(57) 3104629798",
+    "briefcase": "https://curriculum-seven-iota.vercel.app",
+    "location": "Colombia"
+  },
+  "summary": "Ingeniero de Sistemas y Telecomunicaciones de la Universidad de Manizales, con conocimientos en diferentes tecnologías de programación tales como React Js, Node Js; manejo de bases de datos SQL. Persona creyente de mejorar cada día más y aprender de las demás personas.Poseo un artículo llamado Estrategia de gobierno digital para la construcción de Estados más transparentes y proactivos publicado en la Revista Trilogía Ciencia y Tecnología alojado en el siguiente link:",
+  "studies": {
+    "university": "Universidad de Manizales",
+    "title": "Ingeniería de Sistemas y Telecomunicaciones",
+    "date": "2016 - 2020"
+  },
+  "certifications": [
+    {
+      "name": "Scrum Fundamentals Certified",
+      "certificaction_link": "https://drive.google.com/file/d/1F_LMGiPg1jJiFNK7foT4DJByJUQ_YQ7o/view?usp=sharing"
     },
-    "summary":"Ingeniero de Sistemas y Telecomunicaciones de la Universidad de Manizales, con conocimientos en diferentes tecnologías de programación tales como React Js, Node Js; manejo de bases de datos SQL. Persona creyente de mejorar cada día más y aprender de las demás personas.Poseo un artículo llamado Estrategia de gobierno digital para la construcción de Estados más transparentes y proactivos publicado en la Revista Trilogía Ciencia y Tecnología."
+    {
+      "name": "Six Sigma Yellow Belt",
+      "certificaction_link": "https://drive.google.com/file/d/14J16BKjFfmWUJnY4Il9ikM47AWIIaQk5/view?usp=sharing"
+    },
+    {
+      "name": "IBM Integration Bus With Practicals",
+      "certificaction_link": "https://drive.google.com/file/d/19C5j3yIpnY5UXgfbuuCFME0SrtgjGVIQ/view?usp=sharingg"
+    },
+    {
+      "name": "SQL Server Integration Services",
+      "certificaction_link": "https://drive.google.com/file/d/1YajjfJ6MJhWfMWN1FYuf_YkHCN1__zSt/view?usp=sharing"
+    }
+  ]
 }

@@ -44,7 +44,7 @@ export const Contact = () => {
           <EmailIcon style={{ color: "red" }} />
         </div>
       </div>
-      <div style={{ display: "flex", flexDirection: "row",marginTop:'5%' }}>
+      <div style={{ display: "flex", flexDirection: "row",marginTop:'10%' }}>
         <div
           style={{
             flex: 1,
@@ -61,7 +61,7 @@ export const Contact = () => {
           <PhoneIcon style={{ color: "red" }} />
         </div>
       </div>
-      <div style={{ display: "flex", flexDirection: "row",marginTop:'5%' }}>
+      {/* <div style={{ display: "flex", flexDirection: "row",marginTop:'5%' }}>
         <div
           style={{
             flex: 1,
@@ -77,8 +77,8 @@ export const Contact = () => {
         <div style={{ alignSelf: "flex-end",marginLeft:'5px' }}>
           <LanguageIcon style={{ color: "red" }} />
         </div>
-      </div>
-      <div style={{ display: "flex", flexDirection: "row",marginTop:'5%', marginBottom:'13px' }}>
+      </div> */}
+      <div style={{ display: "flex", flexDirection: "row",marginTop:'10%', marginBottom:'13px' }}>
         <div
           style={{
             flex: 1,
@@ -97,7 +97,7 @@ export const Contact = () => {
       </div>
       
     </div>
-    <Divider style={{background:'black',marginTop:'5%'}}/>
+    {/* <Divider style={{background:'black',marginTop:'5%'}}/> */}
     </>
   );
 };
