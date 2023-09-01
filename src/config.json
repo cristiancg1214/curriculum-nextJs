@@ -30,5 +30,41 @@
       "name": "SQL Server Integration Services",
       "certificaction_link": "https://drive.google.com/file/d/1YajjfJ6MJhWfMWN1FYuf_YkHCN1__zSt/view?usp=sharing"
     }
+  ],
+  "references": [
+    {
+      "name": "Julián Andrés Gallego Vargas",
+      "title": "Ingeniero de Sistemas y Telecomunicaciones",
+      "phone_contact": "(57) 3128376277"
+    },
+    {
+      "name": "Alejandro Valencia Vargas",
+      "title": "Ingeniero Biomédico",
+      "phone_contact": "(57) 3117662264"
+    },
+    {
+      "name": "Juan Felipe Guevara",
+      "title": "Ingeniero de Sistemas",
+      "phone_contact": "(57) 3103583256"
+    },
+    {
+      "name": "Darwin Salazar Ramírez",
+      "title": "Ingeniero de Sistemas",
+      "phone_contact": "(57) 3137752895"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Reactiva Soporte y Desarrollo S.A.S",
+      "position": "Ingeniero desarrollador junior",
+      "activities": "Frontend React Js Web y móvil.",
+      "date": "/ 2020 - 2021"
+    },
+    {
+      "company": "Babel S.A.S",
+      "position": "Ingeniero desarrollador fullstack",
+      "activities": "Frontend React Js, backend Node js, base de datos SQl y reporteria Reporting Services.",
+      "date": "/ 2021 - actual"
+    }
   ]
 }
